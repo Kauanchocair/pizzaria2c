@@ -5,7 +5,7 @@ import Inicio from './pages/Inicio'
  
 const App = () => {
  
-  const [color] = useState("#CCBBFF")
+  const [color] = useState("#a54fcc")
   document.body.style.backgroundColor = color
  
   return (
